@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/collijk/python-package-cookiecutter",
+  "commit": "76ca4f5181f9619b2124d95ae31cf15d7d0fedf9",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "James Collins",
+      "author_email": "collijk1@gmail.com",
+      "github_username": "collijk",
+      "project_name": "fluffy-bunnies",
+      "project_slug": "fluffy-bunnies",
+      "package_name": "fluffy_bunnies",
+      "project_short_description": "Test deployment package",
+      "_template": "https://github.com/collijk/python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
